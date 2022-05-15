@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9a56851f-b5c7-4bdb-83cb-1254b51d921f": {
+      "ProjectGuid": "9a56851f-b5c7-4bdb-83cb-1254b51d921f",
+      "DisplayName": "StudentInfoSystem",
+      "ColorIndex": 0
+    },
+    "889fe184-0772-434a-b3fe-d9add70c59cf": {
+      "ProjectGuid": "889fe184-0772-434a-b3fe-d9add70c59cf",
+      "DisplayName": "UserLogin",
+      "ColorIndex": 1
+    },
+    "6eb151fd-b8ea-4749-8195-678d4b6419bf": {
+      "ProjectGuid": "6eb151fd-b8ea-4749-8195-678d4b6419bf",
+      "DisplayName": "WPFHello",
+      "ColorIndex": 2
+    },
+    "6db386b4-0638-4338-8463-0a7b499e54f5": {
+      "ProjectGuid": "6db386b4-0638-4338-8463-0a7b499e54f5",
+      "DisplayName": "Expenselt",
+      "ColorIndex": 3
+    },
+    "5b494569-d722-474c-9e03-28bc2045428d": {
+      "ProjectGuid": "5b494569-d722-474c-9e03-28bc2045428d",
+      "DisplayName": "WpfExample",
+      "ColorIndex": 4
+    },
+    "e9cfbbd4-f1dc-4daf-a3a4-5430dcfb66dd": {
+      "ProjectGuid": "e9cfbbd4-f1dc-4daf-a3a4-5430dcfb66dd",
+      "DisplayName": "EasyMVVM",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
